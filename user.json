@@ -1,0 +1,35 @@
+{
+  "6285176946148": {
+    "nomor": "6285176946148",
+    "vip": true,
+    "premium": true,
+    "limit": 100,
+    "banned": false,
+    "joined": "2025-06-21",
+    "favorit": [],
+    "lastUse": "2025-06-21T00:00:00.000Z"
+  },
+  "6281234567890": {
+    "nomor": "6281234567890",
+    "vip": false,
+    "premium": false,
+    "limit": 10,
+    "banned": false,
+    "joined": "2025-06-20",
+    "favorit": [],
+    "lastUse": "2025-06-21T08:00:00.000Z"
+  },
+  "6289876543210": {
+    "nomor": "6289876543210",
+    "vip": false,
+    "premium": true,
+    "limit": 20,
+    "banned": false,
+    "joined": "2025-06-18",
+    "favorit": [
+      "!ai",
+      ".play"
+    ],
+    "lastUse": "2025-06-21T09:30:00.000Z"
+  }
+}
